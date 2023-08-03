@@ -27,7 +27,7 @@ function App() {
          <img
            src={logo}
            className='logo1'
-           alto='logo' />
+           alt='logo' />
          </div>
          <div className='contenedor-calculadora'>
       
